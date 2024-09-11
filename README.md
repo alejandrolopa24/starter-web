@@ -15,3 +15,7 @@ Cambios de Despliegue
 ## How to Contribute
 
 more things
+
+##Copyright
+
+Git.training
