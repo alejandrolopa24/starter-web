@@ -14,8 +14,7 @@ Cambios de Despliegue
 
 ## How to Contribute
 
-more things
-
+Please fork this repository and then issue Pull Requests for review.
 ##Copyright
 
 Git.training
